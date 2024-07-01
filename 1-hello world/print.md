@@ -23,4 +23,4 @@ In programming, `console.log` is a command used to output or log messages or val
 ### Use Case
 ```javascript
 let number = 10;
-console.log("The value of number is: " + number);
+console.log("The value of number is: " + number);```
