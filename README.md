@@ -1,2 +1,2 @@
 # javascript
-an own javascript lessons repository
+an javascript lessons repository
